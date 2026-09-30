@@ -1,8 +1,7 @@
 # Privacy-pagina publiceren
 
-`index.html` is een volledig zelfstandige Nederlands- en Engelstalige
-privacy-pagina. De pagina gebruikt geen externe scripts, cookies, analytics,
-afbeeldingen of lettertypen.
+`index.html` is een volledig zelfstandige Engelstalige privacy-pagina. De pagina
+gebruikt geen externe scripts, cookies, analytics, afbeeldingen of lettertypen.
 
 ## Aanbevolen route: GitHub Pages
 
@@ -37,4 +36,3 @@ Controleer vóór indienen dat de uiteindelijke URL:
 - niet downloadt maar als gewone webpagina opent;
 - exact de ingediende app en actuele gegevenspraktijken beschrijft;
 - een werkend supportadres bevat.
-
